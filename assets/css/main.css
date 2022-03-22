@@ -16033,7 +16033,7 @@ div[class*="col"]:nth-child(even) .team-item:hover .team-thumb::before {
     z-index: 9999;
     width: 100%;
     height: 100%;
-    background-color: #081636;
+    background-color: #BAAA7E;
     overflow: hidden;
 }
 
@@ -16058,7 +16058,7 @@ div[class*="col"]:nth-child(even) .team-item:hover .team-thumb::before {
     width: 72px;
     height: 72px;
     border-radius: 100%;
-    background: #7c209c;
+    background: #D7C288;
     -webkit-animation: preloader-fx 1.6s linear infinite;
     animation: preloader-fx 1.6s linear infinite;
 }
